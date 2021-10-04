@@ -1,0 +1,4523 @@
+-----------------------------------------------------------------
+16/08/2021 16:33:21
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --Clean=Project1.app,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp -u8 --Clean=Project1.app.dSYM,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp -u8 --Clean=Project1.launchscreen,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Deleting file(s)...
+Total file(s) deleted: 34 file(s)  13 dir(s)
+
+-----------------------------------------------------------------
+16/08/2021 16:33:22
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SettingIcon_87x87.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SettingIcon_87x87.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  2.470 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:22
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_NotificationIcon_60x60.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_NotificationIcon_60x60.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.039 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:22
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1,Project1.app\,1,Project1 VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  47.398.684 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:26
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_LaunchImage_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPad@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  9.691 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:27
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.info.plist,Project1.app\,1,Info.plist VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  3.760 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:27
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_NotificationIcon_40x40.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_NotificationIcon_40x40.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  3.714 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:27
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.dSYM,Project1.app\..\Project1.app.dSYM\Contents\Resources\DWARF\,1,Project1 VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  111.424.970 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:37
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.launchscreen\**\*.*,Project1.app\..\Project1.launchscreen\,0 VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 5 file(s)  6.797 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:37
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_ApplicationIcon_120x120.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_120x120.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.004 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:37
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImageDark_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhoneDark@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.217 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:38
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_LaunchImageDark_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPadDark@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  9.691 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:38
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_SpotlightSearchIcon_80x80.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SpotlightSearchIcon_80x80.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.231 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:38
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImage_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhone@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.217 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:39
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImageDark_3x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhoneDark@3x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.429 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:39
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_ApplicationIcon_180x180.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_180x180.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.426 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:39
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_NotificationIcon_40x40.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_NotificationIcon_40x40.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:39
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SettingIcon_58x58.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SettingIcon_58x58.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  1.221 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:40
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_ApplicationIcon_1024x1024.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_1024x1024.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  11.815 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:40
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_SettingIcon_58x58.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SettingIcon_58x58.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:40
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SpotlightSearchIcon_120x120.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SpotlightSearchIcon_120x120.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.039 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:40
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.entitlements,Project1.app\..\,1,Project1.entitlements VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  489 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:41
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImage_3x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhone@3x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.429 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:41
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SpotlightSearchIcon_80x80.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SpotlightSearchIcon_80x80.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:41
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_ApplicationIcon_152x152.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_152x152.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.727 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:41
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_ApplicationIcon_167x167.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_167x167.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.376 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:42
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --assetcatalog=Project1.launchscreen/Assets,Project1.app VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+
+-----------------------------------------------------------------
+16/08/2021 16:33:44
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --storyboard=Project1.launchscreen/LaunchScreen.storyboard,Project1.app VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+
+-----------------------------------------------------------------
+16/08/2021 16:33:45
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--Put=/Users/desenvolvedor/Library/MobileDevice/Provisioning Profiles/2147172c-807f-4094-8d90-f58b84ea4350.mobileprovision,Project1.app,embedded.mobileprovision" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  14.226 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:33:45
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--codesign=Project1.app,'Apple Development: Jaques Junior (5NR32F935B)',Project1.app\..\Project1.entitlements" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+
+-----------------------------------------------------------------
+16/08/2021 16:52:07
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --Clean=.\Android\Debug\Project1,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Deleting file(s)...
+Total file(s) deleted: 0 file(s)  0 dir(s)
+
+-----------------------------------------------------------------
+16/08/2021 16:52:07
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_426x320.png,.\Android\Debug\Project1\res\drawable-small\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  2.900 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:07
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_36x36.png,.\Android\Debug\Project1\res\drawable-hdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  1.935 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:07
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\splash_image_def.xml,.\Android\Debug\Project1\res\drawable\,1,splash_image_def.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  383 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:08
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_96x96.png,.\Android\Debug\Project1\res\drawable-xxxhdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  3.724 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:08
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_24x24.png,.\Android\Debug\Project1\res\drawable-mdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  1.640 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:08
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\colors.xml,.\Android\Debug\Project1\res\values\,1,colors.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  123 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:08
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_48x48.png,.\Android\Debug\Project1\res\drawable-xhdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  2.322 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:08
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_192x192.png,.\Android\Debug\Project1\res\drawable-xxxhdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.792 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:09
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\strings.xml,.\Android\Debug\Project1\res\values\,1,strings.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  123 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:09
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_72x72.png,.\Android\Debug\Project1\res\drawable-xxhdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  3.019 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:09
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_640x480.png,.\Android\Debug\Project1\res\drawable-large\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  6.809 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:09
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_48x48.png,.\Android\Debug\Project1\res\drawable-mdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  1.119 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:09
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\classes.dex,.\Android\Debug\Project1\classes\,1,classes.dex 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.712.160 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:10
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\styles.xml,.\Android\Debug\Project1\res\values\,1,styles.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  301 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:10
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\styles-v21.xml,.\Android\Debug\Project1\res\values-v21\,1,styles.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  324 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:10
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_36x36.png,.\Android\Debug\Project1\res\drawable-ldpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  1.245 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:10
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_72x72.png,.\Android\Debug\Project1\res\drawable-hdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  2.071 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:11
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\libProject1.so,.\Android\Debug\Project1\library\lib\armeabi-v7a\,1,libProject1.so 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  103.168.788 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:11
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\lib\android\debug\mips\libnative-activity.so,.\Android\Debug\Project1\library\lib\mips\,1,libProject1.so" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  71.860 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:11
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\AndroidManifest.xml,.\Android\Debug\Project1\,1,AndroidManifest.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  2.467 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:11
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\lib\android\debug\armeabi\libnative-activity.so,.\Android\Debug\Project1\library\lib\armeabi\,1,libProject1.so" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  25.720 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:12
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_144x144.png,.\Android\Debug\Project1\res\drawable-xxhdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.147 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:12
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_96x96.png,.\Android\Debug\Project1\res\drawable-xhdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  2.416 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:12
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_960x720.png,.\Android\Debug\Project1\res\drawable-xlarge\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  11.262 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:12
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidNDK-21-21.0.40680.4203\android-ndk-r21\prebuilt\android-arm\gdbserver\gdbserver,.\Android\Debug\Project1\library\lib\armeabi-v7a\,1,gdbserver 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  596.448 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:13
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_470x320.png,.\Android\Debug\Project1\res\drawable-normal\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.120 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:52:13
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --stripdebug=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidNDK-21-21.0.40680.4203\android-ndk-r21\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\bin\arm-linux-androideabi-strip.exe,.\Android\Debug\Project1\debug\libProject1.so,.\Android\Debug\Project1\library\lib\armeabi-v7a\libProject1.so 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+16/08/2021 16:52:13
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --aaptpackage=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidSDK-2525-21.0.40680.4203\build-tools\29.0.3\Aapt.exe,.\Android\Debug\Project1\library,.\Android\Debug\Project1\classes,.\Android\Debug\Project1\res,.\Android\Debug\Project1\assets,.\Android\Debug\Project1\AndroidManifest.xml,C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidSDK-2525-21.0.40680.4203\platforms\android-29\android.jar,.\Android\Debug\Project1\bin\Project1-unsigned.apk 
+Plataforma    : Android
+Build         : Debug
+App           : Project1
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+16/08/2021 16:52:19
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--jarsign=C:\Program Files\AdoptOpenJDK\jdk-8.0.242.08-hotspot\bin\JarSigner.exe,.\Android\Debug\Project1\bin\Project1-unsigned.apk,androiddebugkey,C:\Users\Dell\AppData\Roaming\Embarcadero\BDS\21.0\debug.keystore,MD5withRSA,SHA-256,android,android" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+16/08/2021 16:52:23
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --zipalign=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidSDK-2525-21.0.40680.4203\build-tools\29.0.3\ZipAlign.exe,.\Android\Debug\Project1\bin\Project1-unsigned.apk,.\Android\Debug\Project1\bin\Project1.apk,4 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+16/08/2021 16:55:03
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --Clean=Project1.app,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp -u8 --Clean=Project1.app.dSYM,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp -u8 --Clean=Project1.launchscreen,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Deleting file(s)...
+Total file(s) deleted: 34 file(s)  13 dir(s)
+
+-----------------------------------------------------------------
+16/08/2021 16:55:03
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SettingIcon_87x87.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SettingIcon_87x87.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  2.470 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:03
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_NotificationIcon_60x60.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_NotificationIcon_60x60.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.039 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:04
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1,Project1.app\,1,Project1 VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  47.398.684 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:08
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_LaunchImage_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPad@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  9.691 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:08
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.info.plist,Project1.app\,1,Info.plist VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  3.760 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:08
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_NotificationIcon_40x40.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_NotificationIcon_40x40.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  3.714 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:09
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.dSYM,Project1.app\..\Project1.app.dSYM\Contents\Resources\DWARF\,1,Project1 VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  111.424.970 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:18
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.launchscreen\**\*.*,Project1.app\..\Project1.launchscreen\,0 VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 5 file(s)  6.797 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:19
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_ApplicationIcon_120x120.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_120x120.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.004 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:19
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImageDark_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhoneDark@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.217 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:19
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_LaunchImageDark_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPadDark@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  9.691 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:19
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_SpotlightSearchIcon_80x80.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SpotlightSearchIcon_80x80.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.231 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:20
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImage_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhone@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.217 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:20
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImageDark_3x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhoneDark@3x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.429 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:20
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_ApplicationIcon_180x180.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_180x180.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.426 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:20
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_NotificationIcon_40x40.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_NotificationIcon_40x40.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:21
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SettingIcon_58x58.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SettingIcon_58x58.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  1.221 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:21
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_ApplicationIcon_1024x1024.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_1024x1024.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  11.815 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:21
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_SettingIcon_58x58.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SettingIcon_58x58.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:21
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SpotlightSearchIcon_120x120.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SpotlightSearchIcon_120x120.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.039 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:22
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.entitlements,Project1.app\..\,1,Project1.entitlements VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  489 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:22
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImage_3x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhone@3x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.429 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:22
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SpotlightSearchIcon_80x80.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SpotlightSearchIcon_80x80.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:22
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_ApplicationIcon_152x152.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_152x152.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.727 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:23
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_ApplicationIcon_167x167.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_167x167.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.376 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:23
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --assetcatalog=Project1.launchscreen/Assets,Project1.app VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+
+-----------------------------------------------------------------
+16/08/2021 16:55:25
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --storyboard=Project1.launchscreen/LaunchScreen.storyboard,Project1.app VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+
+-----------------------------------------------------------------
+16/08/2021 16:55:26
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--Put=/Users/desenvolvedor/Library/MobileDevice/Provisioning Profiles/2147172c-807f-4094-8d90-f58b84ea4350.mobileprovision,Project1.app,embedded.mobileprovision" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  14.226 bytes
+
+-----------------------------------------------------------------
+16/08/2021 16:55:26
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--codesign=Project1.app,'Apple Development: Jaques Junior (5NR32F935B)',Project1.app\..\Project1.entitlements" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+
+-----------------------------------------------------------------
+16/08/2021 17:05:10
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --Clean=Project1.app,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp -u8 --Clean=Project1.app.dSYM,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp -u8 --Clean=Project1.launchscreen,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Deleting file(s)...
+Total file(s) deleted: 34 file(s)  13 dir(s)
+
+-----------------------------------------------------------------
+16/08/2021 17:05:10
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SettingIcon_87x87.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SettingIcon_87x87.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  2.470 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:11
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_NotificationIcon_60x60.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_NotificationIcon_60x60.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.039 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:11
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1,Project1.app\,1,Project1 VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  47.399.744 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:15
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_LaunchImage_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPad@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  9.691 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:15
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.info.plist,Project1.app\,1,Info.plist VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  3.760 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:16
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_NotificationIcon_40x40.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_NotificationIcon_40x40.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  3.714 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:16
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.dSYM,Project1.app\..\Project1.app.dSYM\Contents\Resources\DWARF\,1,Project1 VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  111.425.404 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:25
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.launchscreen\**\*.*,Project1.app\..\Project1.launchscreen\,0 VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 5 file(s)  6.797 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:26
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_ApplicationIcon_120x120.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_120x120.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.004 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:26
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImageDark_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhoneDark@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.217 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:26
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_LaunchImageDark_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPadDark@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  9.691 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:26
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_SpotlightSearchIcon_80x80.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SpotlightSearchIcon_80x80.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.231 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:27
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImage_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhone@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.217 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:27
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImageDark_3x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhoneDark@3x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.429 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:27
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_ApplicationIcon_180x180.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_180x180.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.426 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:27
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_NotificationIcon_40x40.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_NotificationIcon_40x40.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:28
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SettingIcon_58x58.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SettingIcon_58x58.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  1.221 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:28
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_ApplicationIcon_1024x1024.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_1024x1024.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  11.815 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:28
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_SettingIcon_58x58.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SettingIcon_58x58.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:28
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SpotlightSearchIcon_120x120.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SpotlightSearchIcon_120x120.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.039 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:29
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.entitlements,Project1.app\..\,1,Project1.entitlements VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  489 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:29
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImage_3x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhone@3x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.429 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:29
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SpotlightSearchIcon_80x80.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SpotlightSearchIcon_80x80.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:29
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_ApplicationIcon_152x152.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_152x152.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.727 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:30
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_ApplicationIcon_167x167.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_167x167.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.376 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:30
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --assetcatalog=Project1.launchscreen/Assets,Project1.app VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+
+-----------------------------------------------------------------
+16/08/2021 17:05:32
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --storyboard=Project1.launchscreen/LaunchScreen.storyboard,Project1.app VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+
+-----------------------------------------------------------------
+16/08/2021 17:05:33
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--Put=/Users/desenvolvedor/Library/MobileDevice/Provisioning Profiles/2147172c-807f-4094-8d90-f58b84ea4350.mobileprovision,Project1.app,embedded.mobileprovision" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  14.226 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:05:33
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--codesign=Project1.app,'Apple Development: Jaques Junior (5NR32F935B)',Project1.app\..\Project1.entitlements" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+
+-----------------------------------------------------------------
+16/08/2021 17:07:57
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --Clean=Project1.app,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp -u8 --Clean=Project1.app.dSYM,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp -u8 --Clean=Project1.launchscreen,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Deleting file(s)...
+Total file(s) deleted: 34 file(s)  13 dir(s)
+
+-----------------------------------------------------------------
+16/08/2021 17:07:57
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SettingIcon_87x87.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SettingIcon_87x87.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  2.470 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:07:58
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_NotificationIcon_60x60.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_NotificationIcon_60x60.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.039 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:07:58
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1,Project1.app\,1,Project1 VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  47.399.744 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:02
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_LaunchImage_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPad@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  9.691 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:03
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.info.plist,Project1.app\,1,Info.plist VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  3.760 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:03
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_NotificationIcon_40x40.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_NotificationIcon_40x40.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  3.714 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:03
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.dSYM,Project1.app\..\Project1.app.dSYM\Contents\Resources\DWARF\,1,Project1 VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  111.425.404 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:13
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.launchscreen\**\*.*,Project1.app\..\Project1.launchscreen\,0 VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 5 file(s)  6.797 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:13
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_ApplicationIcon_120x120.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_120x120.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.004 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:13
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImageDark_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhoneDark@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.217 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:13
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_LaunchImageDark_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPadDark@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  9.691 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:14
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_SpotlightSearchIcon_80x80.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SpotlightSearchIcon_80x80.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.231 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:14
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImage_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhone@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.217 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:14
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImageDark_3x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhoneDark@3x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.429 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:14
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_ApplicationIcon_180x180.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_180x180.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.426 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:15
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_NotificationIcon_40x40.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_NotificationIcon_40x40.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:15
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SettingIcon_58x58.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SettingIcon_58x58.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  1.221 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:15
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_ApplicationIcon_1024x1024.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_1024x1024.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  11.815 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:15
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_SettingIcon_58x58.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SettingIcon_58x58.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:16
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SpotlightSearchIcon_120x120.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SpotlightSearchIcon_120x120.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.039 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:16
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.entitlements,Project1.app\..\,1,Project1.entitlements VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  489 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:16
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImage_3x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhone@3x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.429 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:16
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SpotlightSearchIcon_80x80.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SpotlightSearchIcon_80x80.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:17
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_ApplicationIcon_152x152.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_152x152.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.727 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:17
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_ApplicationIcon_167x167.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_167x167.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.376 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:17
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --assetcatalog=Project1.launchscreen/Assets,Project1.app VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+
+-----------------------------------------------------------------
+16/08/2021 17:08:19
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --storyboard=Project1.launchscreen/LaunchScreen.storyboard,Project1.app VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+
+-----------------------------------------------------------------
+16/08/2021 17:08:20
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--Put=/Users/desenvolvedor/Library/MobileDevice/Provisioning Profiles/2147172c-807f-4094-8d90-f58b84ea4350.mobileprovision,Project1.app,embedded.mobileprovision" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  14.226 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:08:21
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--codesign=Project1.app,'Apple Development: Jaques Junior (5NR32F935B)',Project1.app\..\Project1.entitlements" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+
+-----------------------------------------------------------------
+16/08/2021 17:19:00
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --Clean=.\Android\Debug\Project1,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Deleting file(s)...
+Total file(s) deleted: 5 file(s)  3 dir(s)
+
+-----------------------------------------------------------------
+16/08/2021 17:19:00
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_426x320.png,.\Android\Debug\Project1\res\drawable-small\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:01
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_36x36.png,.\Android\Debug\Project1\res\drawable-hdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:01
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\splash_image_def.xml,.\Android\Debug\Project1\res\drawable\,1,splash_image_def.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  383 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:01
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_96x96.png,.\Android\Debug\Project1\res\drawable-xxxhdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:01
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_24x24.png,.\Android\Debug\Project1\res\drawable-mdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:01
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\colors.xml,.\Android\Debug\Project1\res\values\,1,colors.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  123 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:02
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_48x48.png,.\Android\Debug\Project1\res\drawable-xhdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:02
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_192x192.png,.\Android\Debug\Project1\res\drawable-xxxhdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:02
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\strings.xml,.\Android\Debug\Project1\res\values\,1,strings.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  123 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:02
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_72x72.png,.\Android\Debug\Project1\res\drawable-xxhdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:02
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_640x480.png,.\Android\Debug\Project1\res\drawable-large\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:03
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_48x48.png,.\Android\Debug\Project1\res\drawable-mdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:03
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\classes.dex,.\Android\Debug\Project1\classes\,1,classes.dex 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.712.160 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:03
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\styles.xml,.\Android\Debug\Project1\res\values\,1,styles.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  301 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:04
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\styles-v21.xml,.\Android\Debug\Project1\res\values-v21\,1,styles.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  324 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:04
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_36x36.png,.\Android\Debug\Project1\res\drawable-ldpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:04
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_72x72.png,.\Android\Debug\Project1\res\drawable-hdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:04
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\libProject1.so,.\Android\Debug\Project1\library\lib\armeabi-v7a\,1,libProject1.so 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  103.169.020 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:05
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\lib\android\debug\mips\libnative-activity.so,.\Android\Debug\Project1\library\lib\mips\,1,libProject1.so" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:05
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\AndroidManifest.xml,.\Android\Debug\Project1\,1,AndroidManifest.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  2.467 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:05
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\lib\android\debug\armeabi\libnative-activity.so,.\Android\Debug\Project1\library\lib\armeabi\,1,libProject1.so" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:05
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_144x144.png,.\Android\Debug\Project1\res\drawable-xxhdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:05
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_96x96.png,.\Android\Debug\Project1\res\drawable-xhdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:06
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_960x720.png,.\Android\Debug\Project1\res\drawable-xlarge\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:06
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidNDK-21-21.0.40680.4203\android-ndk-r21\prebuilt\android-arm\gdbserver\gdbserver,.\Android\Debug\Project1\library\lib\armeabi-v7a\,1,gdbserver 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:06
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_470x320.png,.\Android\Debug\Project1\res\drawable-normal\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:19:06
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --stripdebug=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidNDK-21-21.0.40680.4203\android-ndk-r21\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\bin\arm-linux-androideabi-strip.exe,.\Android\Debug\Project1\debug\libProject1.so,.\Android\Debug\Project1\library\lib\armeabi-v7a\libProject1.so 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+16/08/2021 17:19:07
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --aaptpackage=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidSDK-2525-21.0.40680.4203\build-tools\29.0.3\Aapt.exe,.\Android\Debug\Project1\library,.\Android\Debug\Project1\classes,.\Android\Debug\Project1\res,.\Android\Debug\Project1\assets,.\Android\Debug\Project1\AndroidManifest.xml,C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidSDK-2525-21.0.40680.4203\platforms\android-29\android.jar,.\Android\Debug\Project1\bin\Project1-unsigned.apk 
+Plataforma    : Android
+Build         : Debug
+App           : Project1
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+16/08/2021 17:19:13
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--jarsign=C:\Program Files\AdoptOpenJDK\jdk-8.0.242.08-hotspot\bin\JarSigner.exe,.\Android\Debug\Project1\bin\Project1-unsigned.apk,androiddebugkey,C:\Users\Dell\AppData\Roaming\Embarcadero\BDS\21.0\debug.keystore,MD5withRSA,SHA-256,android,android" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+16/08/2021 17:19:17
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --zipalign=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidSDK-2525-21.0.40680.4203\build-tools\29.0.3\ZipAlign.exe,.\Android\Debug\Project1\bin\Project1-unsigned.apk,.\Android\Debug\Project1\bin\Project1.apk,4 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+16/08/2021 17:27:55
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --Clean=.\Android\Debug\Project1,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Deleting file(s)...
+Total file(s) deleted: 5 file(s)  3 dir(s)
+
+-----------------------------------------------------------------
+16/08/2021 17:27:55
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_426x320.png,.\Android\Debug\Project1\res\drawable-small\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:27:55
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_36x36.png,.\Android\Debug\Project1\res\drawable-hdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:27:56
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\splash_image_def.xml,.\Android\Debug\Project1\res\drawable\,1,splash_image_def.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  383 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:27:56
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_96x96.png,.\Android\Debug\Project1\res\drawable-xxxhdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:27:56
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_24x24.png,.\Android\Debug\Project1\res\drawable-mdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:27:56
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\colors.xml,.\Android\Debug\Project1\res\values\,1,colors.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  123 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:27:56
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_48x48.png,.\Android\Debug\Project1\res\drawable-xhdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:27:57
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_192x192.png,.\Android\Debug\Project1\res\drawable-xxxhdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:27:57
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\strings.xml,.\Android\Debug\Project1\res\values\,1,strings.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  123 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:27:57
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_72x72.png,.\Android\Debug\Project1\res\drawable-xxhdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:27:57
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_640x480.png,.\Android\Debug\Project1\res\drawable-large\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:27:57
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_48x48.png,.\Android\Debug\Project1\res\drawable-mdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:27:58
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\classes.dex,.\Android\Debug\Project1\classes\,1,classes.dex 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.712.160 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:27:58
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\styles.xml,.\Android\Debug\Project1\res\values\,1,styles.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  301 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:27:58
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\styles-v21.xml,.\Android\Debug\Project1\res\values-v21\,1,styles.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  324 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:27:58
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_36x36.png,.\Android\Debug\Project1\res\drawable-ldpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:27:59
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_72x72.png,.\Android\Debug\Project1\res\drawable-hdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:27:59
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\libProject1.so,.\Android\Debug\Project1\library\lib\armeabi-v7a\,1,libProject1.so 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  103.169.140 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:27:59
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\lib\android\debug\mips\libnative-activity.so,.\Android\Debug\Project1\library\lib\mips\,1,libProject1.so" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:27:59
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\AndroidManifest.xml,.\Android\Debug\Project1\,1,AndroidManifest.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  2.467 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:27:59
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\lib\android\debug\armeabi\libnative-activity.so,.\Android\Debug\Project1\library\lib\armeabi\,1,libProject1.so" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:28:00
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_144x144.png,.\Android\Debug\Project1\res\drawable-xxhdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:28:00
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_96x96.png,.\Android\Debug\Project1\res\drawable-xhdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:28:00
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_960x720.png,.\Android\Debug\Project1\res\drawable-xlarge\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:28:00
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidNDK-21-21.0.40680.4203\android-ndk-r21\prebuilt\android-arm\gdbserver\gdbserver,.\Android\Debug\Project1\library\lib\armeabi-v7a\,1,gdbserver 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:28:01
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_470x320.png,.\Android\Debug\Project1\res\drawable-normal\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:28:01
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --stripdebug=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidNDK-21-21.0.40680.4203\android-ndk-r21\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\bin\arm-linux-androideabi-strip.exe,.\Android\Debug\Project1\debug\libProject1.so,.\Android\Debug\Project1\library\lib\armeabi-v7a\libProject1.so 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+16/08/2021 17:28:01
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --aaptpackage=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidSDK-2525-21.0.40680.4203\build-tools\29.0.3\Aapt.exe,.\Android\Debug\Project1\library,.\Android\Debug\Project1\classes,.\Android\Debug\Project1\res,.\Android\Debug\Project1\assets,.\Android\Debug\Project1\AndroidManifest.xml,C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidSDK-2525-21.0.40680.4203\platforms\android-29\android.jar,.\Android\Debug\Project1\bin\Project1-unsigned.apk 
+Plataforma    : Android
+Build         : Debug
+App           : Project1
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+16/08/2021 17:28:07
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--jarsign=C:\Program Files\AdoptOpenJDK\jdk-8.0.242.08-hotspot\bin\JarSigner.exe,.\Android\Debug\Project1\bin\Project1-unsigned.apk,androiddebugkey,C:\Users\Dell\AppData\Roaming\Embarcadero\BDS\21.0\debug.keystore,MD5withRSA,SHA-256,android,android" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+16/08/2021 17:28:11
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --zipalign=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidSDK-2525-21.0.40680.4203\build-tools\29.0.3\ZipAlign.exe,.\Android\Debug\Project1\bin\Project1-unsigned.apk,.\Android\Debug\Project1\bin\Project1.apk,4 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+16/08/2021 17:45:46
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --Clean=Project1.app,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp -u8 --Clean=Project1.app.dSYM,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp -u8 --Clean=Project1.launchscreen,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Deleting file(s)...
+Total file(s) deleted: 34 file(s)  13 dir(s)
+
+-----------------------------------------------------------------
+16/08/2021 17:45:46
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SettingIcon_87x87.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SettingIcon_87x87.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  2.470 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:45:46
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_NotificationIcon_60x60.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_NotificationIcon_60x60.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.039 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:45:46
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1,Project1.app\,1,Project1 VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  47.399.988 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:45:51
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_LaunchImage_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPad@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  9.691 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:45:51
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.info.plist,Project1.app\,1,Info.plist VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  3.760 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:45:51
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_NotificationIcon_40x40.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_NotificationIcon_40x40.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  3.714 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:45:51
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.dSYM,Project1.app\..\Project1.app.dSYM\Contents\Resources\DWARF\,1,Project1 VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  111.421.308 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:01
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.launchscreen\**\*.*,Project1.app\..\Project1.launchscreen\,0 VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 5 file(s)  6.797 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:01
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_ApplicationIcon_120x120.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_120x120.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.004 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:02
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImageDark_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhoneDark@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.217 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:02
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_LaunchImageDark_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPadDark@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  9.691 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:02
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_SpotlightSearchIcon_80x80.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SpotlightSearchIcon_80x80.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.231 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:02
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImage_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhone@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.217 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:03
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImageDark_3x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhoneDark@3x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.429 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:03
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_ApplicationIcon_180x180.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_180x180.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.426 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:03
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_NotificationIcon_40x40.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_NotificationIcon_40x40.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:04
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SettingIcon_58x58.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SettingIcon_58x58.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  1.221 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:04
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_ApplicationIcon_1024x1024.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_1024x1024.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  11.815 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:04
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_SettingIcon_58x58.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SettingIcon_58x58.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:04
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SpotlightSearchIcon_120x120.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SpotlightSearchIcon_120x120.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.039 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:05
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.entitlements,Project1.app\..\,1,Project1.entitlements VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  489 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:05
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImage_3x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhone@3x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.429 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:05
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SpotlightSearchIcon_80x80.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SpotlightSearchIcon_80x80.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:05
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_ApplicationIcon_152x152.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_152x152.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.727 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:06
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_ApplicationIcon_167x167.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_167x167.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.376 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:06
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --assetcatalog=Project1.launchscreen/Assets,Project1.app VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+
+-----------------------------------------------------------------
+16/08/2021 17:46:08
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --storyboard=Project1.launchscreen/LaunchScreen.storyboard,Project1.app VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+
+-----------------------------------------------------------------
+16/08/2021 17:46:09
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--Put=/Users/desenvolvedor/Library/MobileDevice/Provisioning Profiles/2147172c-807f-4094-8d90-f58b84ea4350.mobileprovision,Project1.app,embedded.mobileprovision" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  14.226 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:09
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--codesign=Project1.app,'Apple Development: Jaques Junior (5NR32F935B)',Project1.app\..\Project1.entitlements" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+
+-----------------------------------------------------------------
+16/08/2021 17:46:44
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --Clean=.\Android\Debug\Project1,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Deleting file(s)...
+Total file(s) deleted: 5 file(s)  3 dir(s)
+
+-----------------------------------------------------------------
+16/08/2021 17:46:44
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_426x320.png,.\Android\Debug\Project1\res\drawable-small\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:44
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_36x36.png,.\Android\Debug\Project1\res\drawable-hdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:44
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\splash_image_def.xml,.\Android\Debug\Project1\res\drawable\,1,splash_image_def.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  383 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:44
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_96x96.png,.\Android\Debug\Project1\res\drawable-xxxhdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:45
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_24x24.png,.\Android\Debug\Project1\res\drawable-mdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:45
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\colors.xml,.\Android\Debug\Project1\res\values\,1,colors.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  123 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:45
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_48x48.png,.\Android\Debug\Project1\res\drawable-xhdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:45
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_192x192.png,.\Android\Debug\Project1\res\drawable-xxxhdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:46
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\strings.xml,.\Android\Debug\Project1\res\values\,1,strings.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  123 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:46
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_72x72.png,.\Android\Debug\Project1\res\drawable-xxhdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:46
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_640x480.png,.\Android\Debug\Project1\res\drawable-large\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:46
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_48x48.png,.\Android\Debug\Project1\res\drawable-mdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:46
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\classes.dex,.\Android\Debug\Project1\classes\,1,classes.dex 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.712.160 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:47
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\styles.xml,.\Android\Debug\Project1\res\values\,1,styles.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  301 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:47
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\styles-v21.xml,.\Android\Debug\Project1\res\values-v21\,1,styles.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  324 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:47
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_36x36.png,.\Android\Debug\Project1\res\drawable-ldpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:47
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_72x72.png,.\Android\Debug\Project1\res\drawable-hdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:48
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\libProject1.so,.\Android\Debug\Project1\library\lib\armeabi-v7a\,1,libProject1.so 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  103.169.040 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:48
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\lib\android\debug\mips\libnative-activity.so,.\Android\Debug\Project1\library\lib\mips\,1,libProject1.so" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:48
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\AndroidManifest.xml,.\Android\Debug\Project1\,1,AndroidManifest.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  2.467 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:48
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\lib\android\debug\armeabi\libnative-activity.so,.\Android\Debug\Project1\library\lib\armeabi\,1,libProject1.so" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:48
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_144x144.png,.\Android\Debug\Project1\res\drawable-xxhdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:49
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_96x96.png,.\Android\Debug\Project1\res\drawable-xhdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:49
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_960x720.png,.\Android\Debug\Project1\res\drawable-xlarge\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:49
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidNDK-21-21.0.40680.4203\android-ndk-r21\prebuilt\android-arm\gdbserver\gdbserver,.\Android\Debug\Project1\library\lib\armeabi-v7a\,1,gdbserver 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:49
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_470x320.png,.\Android\Debug\Project1\res\drawable-normal\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 17:46:50
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --stripdebug=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidNDK-21-21.0.40680.4203\android-ndk-r21\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\bin\arm-linux-androideabi-strip.exe,.\Android\Debug\Project1\debug\libProject1.so,.\Android\Debug\Project1\library\lib\armeabi-v7a\libProject1.so 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+16/08/2021 17:46:50
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --aaptpackage=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidSDK-2525-21.0.40680.4203\build-tools\29.0.3\Aapt.exe,.\Android\Debug\Project1\library,.\Android\Debug\Project1\classes,.\Android\Debug\Project1\res,.\Android\Debug\Project1\assets,.\Android\Debug\Project1\AndroidManifest.xml,C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidSDK-2525-21.0.40680.4203\platforms\android-29\android.jar,.\Android\Debug\Project1\bin\Project1-unsigned.apk 
+Plataforma    : Android
+Build         : Debug
+App           : Project1
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+16/08/2021 17:46:56
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--jarsign=C:\Program Files\AdoptOpenJDK\jdk-8.0.242.08-hotspot\bin\JarSigner.exe,.\Android\Debug\Project1\bin\Project1-unsigned.apk,androiddebugkey,C:\Users\Dell\AppData\Roaming\Embarcadero\BDS\21.0\debug.keystore,MD5withRSA,SHA-256,android,android" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+16/08/2021 17:46:59
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --zipalign=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidSDK-2525-21.0.40680.4203\build-tools\29.0.3\ZipAlign.exe,.\Android\Debug\Project1\bin\Project1-unsigned.apk,.\Android\Debug\Project1\bin\Project1.apk,4 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+16/08/2021 20:11:53
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --Clean=.\Android\Debug\Project1,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Deleting file(s)...
+Total file(s) deleted: 5 file(s)  3 dir(s)
+
+-----------------------------------------------------------------
+16/08/2021 20:11:53
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_426x320.png,.\Android\Debug\Project1\res\drawable-small\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:54
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_36x36.png,.\Android\Debug\Project1\res\drawable-hdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:54
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\splash_image_def.xml,.\Android\Debug\Project1\res\drawable\,1,splash_image_def.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  383 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:54
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_96x96.png,.\Android\Debug\Project1\res\drawable-xxxhdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:54
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_24x24.png,.\Android\Debug\Project1\res\drawable-mdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:54
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\colors.xml,.\Android\Debug\Project1\res\values\,1,colors.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  123 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:55
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_48x48.png,.\Android\Debug\Project1\res\drawable-xhdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:55
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_192x192.png,.\Android\Debug\Project1\res\drawable-xxxhdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:55
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\strings.xml,.\Android\Debug\Project1\res\values\,1,strings.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  123 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:55
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_72x72.png,.\Android\Debug\Project1\res\drawable-xxhdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:55
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_640x480.png,.\Android\Debug\Project1\res\drawable-large\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:56
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_48x48.png,.\Android\Debug\Project1\res\drawable-mdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:56
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\classes.dex,.\Android\Debug\Project1\classes\,1,classes.dex 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.712.160 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:56
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\styles.xml,.\Android\Debug\Project1\res\values\,1,styles.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  301 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:56
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\styles-v21.xml,.\Android\Debug\Project1\res\values-v21\,1,styles.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  324 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:57
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_36x36.png,.\Android\Debug\Project1\res\drawable-ldpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:57
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_72x72.png,.\Android\Debug\Project1\res\drawable-hdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:57
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\libProject1.so,.\Android\Debug\Project1\library\lib\armeabi-v7a\,1,libProject1.so 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  103.169.872 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:57
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\lib\android\debug\mips\libnative-activity.so,.\Android\Debug\Project1\library\lib\mips\,1,libProject1.so" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:57
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=Android\Debug\AndroidManifest.xml,.\Android\Debug\Project1\,1,AndroidManifest.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  2.467 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:58
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\lib\android\debug\armeabi\libnative-activity.so,.\Android\Debug\Project1\library\lib\armeabi\,1,libProject1.so" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:58
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_144x144.png,.\Android\Debug\Project1\res\drawable-xxhdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:58
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_96x96.png,.\Android\Debug\Project1\res\drawable-xhdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:58
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_960x720.png,.\Android\Debug\Project1\res\drawable-xlarge\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:59
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidNDK-21-21.0.40680.4203\android-ndk-r21\prebuilt\android-arm\gdbserver\gdbserver,.\Android\Debug\Project1\library\lib\armeabi-v7a\,1,gdbserver 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:59
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_470x320.png,.\Android\Debug\Project1\res\drawable-normal\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:11:59
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --stripdebug=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidNDK-21-21.0.40680.4203\android-ndk-r21\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\bin\arm-linux-androideabi-strip.exe,.\Android\Debug\Project1\debug\libProject1.so,.\Android\Debug\Project1\library\lib\armeabi-v7a\libProject1.so 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+16/08/2021 20:11:59
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --aaptpackage=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidSDK-2525-21.0.40680.4203\build-tools\29.0.3\Aapt.exe,.\Android\Debug\Project1\library,.\Android\Debug\Project1\classes,.\Android\Debug\Project1\res,.\Android\Debug\Project1\assets,.\Android\Debug\Project1\AndroidManifest.xml,C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidSDK-2525-21.0.40680.4203\platforms\android-29\android.jar,.\Android\Debug\Project1\bin\Project1-unsigned.apk 
+Plataforma    : Android
+Build         : Debug
+App           : Project1
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+16/08/2021 20:12:05
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--jarsign=C:\Program Files\AdoptOpenJDK\jdk-8.0.242.08-hotspot\bin\JarSigner.exe,.\Android\Debug\Project1\bin\Project1-unsigned.apk,androiddebugkey,C:\Users\Dell\AppData\Roaming\Embarcadero\BDS\21.0\debug.keystore,MD5withRSA,SHA-256,android,android" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+16/08/2021 20:12:09
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --zipalign=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidSDK-2525-21.0.40680.4203\build-tools\29.0.3\ZipAlign.exe,.\Android\Debug\Project1\bin\Project1-unsigned.apk,.\Android\Debug\Project1\bin\Project1.apk,4 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+16/08/2021 20:16:24
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --Clean=Project1.app,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp -u8 --Clean=Project1.app.dSYM,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp -u8 --Clean=Project1.launchscreen,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Deleting file(s)...
+Total file(s) deleted: 34 file(s)  13 dir(s)
+
+-----------------------------------------------------------------
+16/08/2021 20:16:24
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SettingIcon_87x87.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SettingIcon_87x87.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  2.470 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:24
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_NotificationIcon_60x60.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_NotificationIcon_60x60.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.039 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:24
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1,Project1.app\,1,Project1 VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  47.400.000 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:29
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_LaunchImage_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPad@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  9.691 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:29
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.info.plist,Project1.app\,1,Info.plist VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  3.760 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:29
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_NotificationIcon_40x40.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_NotificationIcon_40x40.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  3.714 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:29
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.dSYM,Project1.app\..\Project1.app.dSYM\Contents\Resources\DWARF\,1,Project1 VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  111.425.405 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:39
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.launchscreen\**\*.*,Project1.app\..\Project1.launchscreen\,0 VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 5 file(s)  6.797 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:39
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_ApplicationIcon_120x120.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_120x120.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.004 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:40
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImageDark_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhoneDark@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.217 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:40
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_LaunchImageDark_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPadDark@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  9.691 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:40
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_SpotlightSearchIcon_80x80.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SpotlightSearchIcon_80x80.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.231 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:40
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImage_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhone@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.217 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:41
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImageDark_3x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhoneDark@3x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.429 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:41
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_ApplicationIcon_180x180.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_180x180.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.426 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:41
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_NotificationIcon_40x40.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_NotificationIcon_40x40.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:41
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SettingIcon_58x58.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SettingIcon_58x58.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  1.221 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:42
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_ApplicationIcon_1024x1024.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_1024x1024.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  11.815 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:42
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_SettingIcon_58x58.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SettingIcon_58x58.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:42
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SpotlightSearchIcon_120x120.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SpotlightSearchIcon_120x120.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.039 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:42
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.entitlements,Project1.app\..\,1,Project1.entitlements VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  489 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:43
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImage_3x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhone@3x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.429 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:43
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SpotlightSearchIcon_80x80.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SpotlightSearchIcon_80x80.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:43
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_ApplicationIcon_152x152.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_152x152.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.727 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:43
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_ApplicationIcon_167x167.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_167x167.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.376 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:44
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --assetcatalog=Project1.launchscreen/Assets,Project1.app VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+
+-----------------------------------------------------------------
+16/08/2021 20:16:46
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --storyboard=Project1.launchscreen/LaunchScreen.storyboard,Project1.app VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+
+-----------------------------------------------------------------
+16/08/2021 20:16:47
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--Put=/Users/desenvolvedor/Library/MobileDevice/Provisioning Profiles/2147172c-807f-4094-8d90-f58b84ea4350.mobileprovision,Project1.app,embedded.mobileprovision" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  14.226 bytes
+
+-----------------------------------------------------------------
+16/08/2021 20:16:47
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--codesign=Project1.app,'Apple Development: Jaques Junior (5NR32F935B)',Project1.app\..\Project1.entitlements" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+
+-----------------------------------------------------------------
+17/08/2021 15:09:27
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --Clean=Project1.app,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp -u8 --Clean=Project1.app.dSYM,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp -u8 --Clean=Project1.launchscreen,C:\Delphi\demos\Demo_Graph_Components\Project1._@emb_.tmp VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Deleting file(s)...
+Total file(s) deleted: 34 file(s)  13 dir(s)
+
+-----------------------------------------------------------------
+17/08/2021 15:09:27
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SettingIcon_87x87.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SettingIcon_87x87.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  2.470 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:27
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_NotificationIcon_60x60.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_NotificationIcon_60x60.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.039 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:27
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1,Project1.app\,1,Project1 VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  47.399.388 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:32
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_LaunchImage_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPad@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  9.691 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:32
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.info.plist,Project1.app\,1,Info.plist VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  3.760 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:32
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_NotificationIcon_40x40.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_NotificationIcon_40x40.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  3.714 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:32
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.dSYM,Project1.app\..\Project1.app.dSYM\Contents\Resources\DWARF\,1,Project1 VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  111.425.405 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:42
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.launchscreen\**\*.*,Project1.app\..\Project1.launchscreen\,0 VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 5 file(s)  6.797 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:42
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_ApplicationIcon_120x120.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_120x120.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.004 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:42
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImageDark_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhoneDark@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.217 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:43
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_LaunchImageDark_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPadDark@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  9.691 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:43
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_SpotlightSearchIcon_80x80.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SpotlightSearchIcon_80x80.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.231 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:43
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImage_2x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhone@2x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.217 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:43
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImageDark_3x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhoneDark@3x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.429 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:44
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_ApplicationIcon_180x180.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_180x180.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.426 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:44
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_NotificationIcon_40x40.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_NotificationIcon_40x40.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:44
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SettingIcon_58x58.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SettingIcon_58x58.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  1.221 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:44
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_ApplicationIcon_1024x1024.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_1024x1024.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  11.815 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:45
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_SettingIcon_58x58.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SettingIcon_58x58.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:45
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SpotlightSearchIcon_120x120.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SpotlightSearchIcon_120x120.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.039 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:45
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --put=iOSDevice64\Debug\Project1.entitlements,Project1.app\..\,1,Project1.entitlements VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  489 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:45
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_LaunchImage_3x.png,Project1.app\..\Project1.launchscreen\Assets\LaunchScreenImage.imageset\,1,FM_LaunchScreenImage_iPhone@3x.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.429 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:45
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPhone\FM_SpotlightSearchIcon_80x80.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_SpotlightSearchIcon_80x80.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 0 file(s)  0 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:46
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_ApplicationIcon_152x152.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_152x152.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  7.727 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:46
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\iOS\iPad\FM_ApplicationIcon_167x167.png,Project1.app\..\Project1.launchscreen\Assets\AppIcon.appiconset\,1,FM_ApplicationIcon_167x167.png" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.376 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:46
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --assetcatalog=Project1.launchscreen/Assets,Project1.app VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+
+-----------------------------------------------------------------
+17/08/2021 15:09:48
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 --storyboard=Project1.launchscreen/LaunchScreen.storyboard,Project1.app VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+
+-----------------------------------------------------------------
+17/08/2021 15:09:49
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--Put=/Users/desenvolvedor/Library/MobileDevice/Provisioning Profiles/2147172c-807f-4094-8d90-f58b84ea4350.mobileprovision,Project1.app,embedded.mobileprovision" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+Copying file(s)...
+Total file(s) copied: 1 file(s)  14.226 bytes
+
+-----------------------------------------------------------------
+17/08/2021 15:09:50
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+  
+-u8 "--codesign=Project1.app,'Apple Development: Jaques Junior (5NR32F935B)',Project1.app\..\Project1.entitlements" VMMac 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Connecting to 192.168.0.144 on port 64211... 
+
